@@ -1,0 +1,47 @@
+Array
+(
+    [settings] => Array
+        (
+            [site_name] => kilimani Primary School
+            [site_tagline] => Excellence in Education
+            [site_email] => info@kilimanischool.ac.tz
+            [site_phone] => +255 747 666 601
+            [academic_year] => 2025/2026
+            [current_term] => Term 1
+            [school_hours] => Mon - Fri: 8:00 AM - 4:00 PM
+            [site_address] => Kilimani St, Dar es Salaam, Tanzania
+            [google_maps_embed] => 
+            [facebook_url] => https://facebook.com/kilimanischool
+            [twitter_url] => https://twitter.com/kilimanischool
+            [instagram_url] => https://instagram.com/kilimanischool
+            [linkedin_url] => https://linkedin.com/school/kilimanischool
+            [site_about] => Kilimani Primary School is dedicated to providing high-quality education and fostering a supportive learning environment for all students.
+            [copyright_text] => © 2026 kilimani Primary School. All rights reserved.
+            [primary_color] => #005f7a
+            [secondary_color] => #020018
+        )
+
+)
+Array
+(
+    [site_logo] => Array
+        (
+            [name] => —Pngtree—high school logo design vector_9271121.png
+            [full_path] => —Pngtree—high school logo design vector_9271121.png
+            [type] => image/png
+            [tmp_name] => C:\wamp64\tmp\php3707.tmp
+            [error] => 0
+            [size] => 538263
+        )
+
+    [site_favicon] => Array
+        (
+            [name] => —Pngtree—high school logo design vector_9271121.png
+            [full_path] => —Pngtree—high school logo design vector_9271121.png
+            [type] => image/png
+            [tmp_name] => C:\wamp64\tmp\php3717.tmp
+            [error] => 0
+            [size] => 538263
+        )
+
+)
